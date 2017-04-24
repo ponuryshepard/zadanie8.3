@@ -1,5 +1,8 @@
 // plik scripts.js
 
 var name = prompt('Wpisz swoje imiê');
-alert('Witaj, ' + name);
+/*
+	komentarz blokowy
+	alert('Witaj, ' + name);
+*/
 console.log('Witaj, ' + name);
